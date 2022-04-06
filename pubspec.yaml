@@ -83,6 +83,6 @@ flutter_icons:
 
 #flutter pub run flutter_native_splash:create
 flutter_native_splash:
-  color: "#328D2E"
+  color: "#E87722"
   image: resources/images/farnek_icon.png
   #background_image: "assets/background.png"
